@@ -5,6 +5,7 @@ using System.Dynamic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using PromDapterDeclarations;
 using SensorMonHTTP;
 using SharpYaml;
 using SharpYaml.Serialization;
@@ -35,6 +36,19 @@ namespace hwinfo_xunit
                 Debug.WriteLine($"Pattern(s):");
                 Debug.WriteLine(String.Join(Environment.NewLine, patterns));
             }
+        }
+
+        [Fact]
+        public async Task TestHWInfoProvider()
+        {
+            IPromDapterService service = new HWiNFOProvider();
+            await service.Open();
+            DataItem[] data;
+            for (int i = 0; i < 10000; i++)
+            {
+                data = await service.GetDataItems();
+            }
+            await service.Close(true);
         }
 
         [Fact]

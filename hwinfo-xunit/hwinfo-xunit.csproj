@@ -27,6 +27,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\hwinfo-test\hwinfo-test.csproj" />
+    <ProjectReference Include="..\HWiNFODataProvider\HWiNFODataProvider.csproj" />
+    <ProjectReference Include="..\PromDapterDeclarations\PromDapterDeclarations.csproj" />
   </ItemGroup>
 
 </Project>
