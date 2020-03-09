@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hwinfo-test", "hwinfo-test.csproj", "{9FE2B32B-459E-491F-A418-DFF19B158A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hwinfo-xunit", "..\hwinfo-xunit\hwinfo-xunit.csproj", "{ED087D33-AC02-46D5-8232-4B418532949C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE2B32B-459E-491F-A418-DFF19B158A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE2B32B-459E-491F-A418-DFF19B158A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE2B32B-459E-491F-A418-DFF19B158A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE2B32B-459E-491F-A418-DFF19B158A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED087D33-AC02-46D5-8232-4B418532949C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED087D33-AC02-46D5-8232-4B418532949C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED087D33-AC02-46D5-8232-4B418532949C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED087D33-AC02-46D5-8232-4B418532949C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD17EAC6-B730-48FE-A756-757DC3FBCDAA}
+	EndGlobalSection
+EndGlobal

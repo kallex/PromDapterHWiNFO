@@ -1,0 +1,2316 @@
+dwSensorID : 4026532609
+dwSensorInst : 0
+szSensorNameOrig : System
+szSensorNameUser : System
+dwSensorID : 4026532608
+dwSensorInst : 0
+szSensorNameOrig : CPU [#0]: AMD Ryzen 9 3950X
+szSensorNameUser : CPU [#0]: AMD Ryzen 9 3950X
+dwSensorID : 4026532610
+dwSensorInst : 0
+szSensorNameOrig : CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+szSensorNameUser : CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwSensorID : 4026532609
+dwSensorInst : 1
+szSensorNameOrig : Memory Timings
+szSensorNameUser : Memory Timings
+dwSensorID : 4026533121
+dwSensorInst : 0
+szSensorNameOrig : CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+szSensorNameUser : CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwSensorID : 4144396672
+dwSensorInst : 0
+szSensorNameOrig : ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+szSensorNameUser : ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwSensorID : 4060151813
+dwSensorInst : 0
+szSensorNameOrig : ASUS TUF GAMING X570-PLUS (AMD X570)
+szSensorNameUser : ASUS TUF GAMING X570-PLUS (AMD X570)
+dwSensorID : 4026536198
+dwSensorInst : 0
+szSensorNameOrig : ASUS TUF GAMING X570-PLUS (Richtek RT8894A/ASP1106)
+szSensorNameUser : ASUS TUF GAMING X570-PLUS (Richtek RT8894A/ASP1106)
+dwSensorID : 4026532096
+dwSensorInst : 0
+szSensorNameOrig : S.M.A.R.T.: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+szSensorNameUser : S.M.A.R.T.: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwSensorID : 4026532096
+dwSensorInst : 1
+szSensorNameOrig : S.M.A.R.T.: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+szSensorNameUser : S.M.A.R.T.: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwSensorID : 4026532096
+dwSensorInst : 2
+szSensorNameOrig : S.M.A.R.T.: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+szSensorNameUser : S.M.A.R.T.: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+dwSensorID : 4026532096
+dwSensorInst : 3
+szSensorNameOrig : S.M.A.R.T.: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+szSensorNameUser : S.M.A.R.T.: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwSensorID : 4026532096
+dwSensorInst : 4
+szSensorNameOrig : S.M.A.R.T.: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+szSensorNameUser : S.M.A.R.T.: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwSensorID : 4026532096
+dwSensorInst : 5
+szSensorNameOrig : S.M.A.R.T.: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+szSensorNameUser : S.M.A.R.T.: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwSensorID : 4026532097
+dwSensorInst : 0
+szSensorNameOrig : Drive: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+szSensorNameUser : Drive: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwSensorID : 4026532097
+dwSensorInst : 1
+szSensorNameOrig : Drive: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+szSensorNameUser : Drive: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+dwSensorID : 4026532097
+dwSensorInst : 2
+szSensorNameOrig : Drive: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+szSensorNameUser : Drive: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwSensorID : 4026532097
+dwSensorInst : 3
+szSensorNameOrig : Drive: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+szSensorNameUser : Drive: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwSensorID : 4026532097
+dwSensorInst : 4
+szSensorNameOrig : Drive: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+szSensorNameUser : Drive: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwSensorID : 4026532097
+dwSensorInst : 5
+szSensorNameOrig : Drive: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+szSensorNameUser : Drive: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwSensorID : 3758104576
+dwSensorInst : 0
+szSensorNameOrig : GPU [#0]: NVIDIA GeForce GTX 1070: 
+szSensorNameUser : GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwSensorID : 4026591744
+dwSensorInst : 0
+szSensorNameOrig : Network: RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+szSensorNameUser : Network: RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+dwSensorID : 4026591744
+dwSensorInst : 2
+szSensorNameOrig : Network: Microsoft KM-TEST Loopback Adapter
+szSensorNameUser : Network: Microsoft KM-TEST Loopback Adapter
+dwSensorID : 4026535584
+dwSensorInst : 0
+szSensorNameOrig : Windows Hardware Errors (WHEA)
+szSensorNameUser : Windows Hardware Errors (WHEA)
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 0 ; Sensor Name: System
+dwReadingID : 0
+szLabelUser : Virtual Memory Commited
+szUnit : MB
+Value : 24179
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 0 ; Sensor Name: System
+dwReadingID : 0
+szLabelUser : Virtual Memory Available
+szUnit : MB
+Value : 42295
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 0 ; Sensor Name: System
+dwReadingID : 0
+szLabelUser : Virtual Memory Load
+szUnit : %
+Value : 36,3
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 0 ; Sensor Name: System
+dwReadingID : 0
+szLabelUser : Physical Memory Used
+szUnit : MB
+Value : 21699
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 0 ; Sensor Name: System
+dwReadingID : 0
+szLabelUser : Physical Memory Available
+szUnit : MB
+Value : 43750
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 0 ; Sensor Name: System
+dwReadingID : 0
+szLabelUser : Physical Memory Load
+szUnit : %
+Value : 33,1
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 0 ; Sensor Name: System
+dwReadingID : 0
+szLabelUser : Page File Usage
+szUnit : %
+Value : 3,838348388671875
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 0 VID
+szUnit : V
+Value : 1,4312500000000001
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 1 VID
+szUnit : V
+Value : 1,44375
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 2 VID
+szUnit : V
+Value : 1,4312500000000001
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 3 VID
+szUnit : V
+Value : 1,425
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 4 VID
+szUnit : V
+Value : 1,4125
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 5 VID
+szUnit : V
+Value : 1,01875
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 6 VID
+szUnit : V
+Value : 1,44375
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 7 VID
+szUnit : V
+Value : 1,425
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 8 VID
+szUnit : V
+Value : 1,4375
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 9 VID
+szUnit : V
+Value : 1,01875
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 10 VID
+szUnit : V
+Value : 1,3875
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 11 VID
+szUnit : V
+Value : 1,44375
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 12 VID
+szUnit : V
+Value : 1,4312500000000001
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 13 VID
+szUnit : V
+Value : 1,4375
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 14 VID
+szUnit : V
+Value : 1,4312500000000001
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 15 VID
+szUnit : V
+Value : 1,44375
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 0 Clock (perf #2/4)
+szUnit : MHz
+Value : 4242,349999999999
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 1 Clock (perf #1/2)
+szUnit : MHz
+Value : 3593,5199999999995
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 2 Clock (perf #3/3)
+szUnit : MHz
+Value : 3533,6279999999997
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 3 Clock (perf #1/1)
+szUnit : MHz
+Value : 4242,349999999999
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 4 Clock (perf #4/8)
+szUnit : MHz
+Value : 4367,125
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 5 Clock (perf #5/7)
+szUnit : MHz
+Value : 4242,349999999999
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 6 Clock (perf #6/6)
+szUnit : MHz
+Value : 3593,5199999999995
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 7 Clock (perf #7/5)
+szUnit : MHz
+Value : 3393,8799999999997
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 8 Clock (perf #8/12)
+szUnit : MHz
+Value : 3593,5199999999995
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 9 Clock (perf #10/16)
+szUnit : MHz
+Value : 3413,844
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 10 Clock (perf #9/11)
+szUnit : MHz
+Value : 3593,5199999999995
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 11 Clock (perf #11/15)
+szUnit : MHz
+Value : 3413,844
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 12 Clock (perf #12/10)
+szUnit : MHz
+Value : 3393,8799999999997
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 13 Clock (perf #14/14)
+szUnit : MHz
+Value : 3593,5199999999995
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 14 Clock (perf #15/13)
+szUnit : MHz
+Value : 3593,5199999999995
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 15 Clock (perf #13/9)
+szUnit : MHz
+Value : 3593,5199999999995
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Bus Clock
+szUnit : MHz
+Value : 99,82
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 0 T0 Effective Clock
+szUnit : MHz
+Value : 1467,5878053864435
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 0 T1 Effective Clock
+szUnit : MHz
+Value : 10,600693538897493
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 1 T0 Effective Clock
+szUnit : MHz
+Value : 2217,971721583503
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 1 T1 Effective Clock
+szUnit : MHz
+Value : 197,65501296261255
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 2 T0 Effective Clock
+szUnit : MHz
+Value : 1057,5377092436538
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 2 T1 Effective Clock
+szUnit : MHz
+Value : 9,71847454655918
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 3 T0 Effective Clock
+szUnit : MHz
+Value : 2138,3324930563217
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 3 T1 Effective Clock
+szUnit : MHz
+Value : 41,45516259254723
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 4 T0 Effective Clock
+szUnit : MHz
+Value : 740,7233507194591
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 4 T1 Effective Clock
+szUnit : MHz
+Value : 2,17108968296927
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 5 T0 Effective Clock
+szUnit : MHz
+Value : 463,0318939197098
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 5 T1 Effective Clock
+szUnit : MHz
+Value : 2,1851787280354182
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 6 T0 Effective Clock
+szUnit : MHz
+Value : 293,61627567989433
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 6 T1 Effective Clock
+szUnit : MHz
+Value : 2,9851372425276774
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 7 T0 Effective Clock
+szUnit : MHz
+Value : 176,0174197703587
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 7 T1 Effective Clock
+szUnit : MHz
+Value : 2,155501721329112
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 8 T0 Effective Clock
+szUnit : MHz
+Value : 102,06815444229066
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 8 T1 Effective Clock
+szUnit : MHz
+Value : 1,6765736087784069
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 9 T0 Effective Clock
+szUnit : MHz
+Value : 31,554963429434828
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 9 T1 Effective Clock
+szUnit : MHz
+Value : 1,3578509606310103
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 10 T0 Effective Clock
+szUnit : MHz
+Value : 87,02778813033464
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 10 T1 Effective Clock
+szUnit : MHz
+Value : 9,738246994539718
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 11 T0 Effective Clock
+szUnit : MHz
+Value : 28,171113841200377
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 11 T1 Effective Clock
+szUnit : MHz
+Value : 67,99128441424463
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 12 T0 Effective Clock
+szUnit : MHz
+Value : 10,281227982462333
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 12 T1 Effective Clock
+szUnit : MHz
+Value : 1,451472229639776
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 13 T0 Effective Clock
+szUnit : MHz
+Value : 6,369456183298056
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 13 T1 Effective Clock
+szUnit : MHz
+Value : 4,607991343575616
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 14 T0 Effective Clock
+szUnit : MHz
+Value : 9,879217958071003
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 14 T1 Effective Clock
+szUnit : MHz
+Value : 1,9757323075992086
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 15 T0 Effective Clock
+szUnit : MHz
+Value : 27,488215947469328
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 15 T1 Effective Clock
+szUnit : MHz
+Value : 8,771588516989997
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Average Effective Clock
+szUnit : MHz
+Value : 288,25486870829315
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 0 T0 Usage
+szUnit : %
+Value : 25,5
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 0 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 1 T0 Usage
+szUnit : %
+Value : 47,3
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 1 T1 Usage
+szUnit : %
+Value : 2,2
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 2 T0 Usage
+szUnit : %
+Value : 21,8
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 2 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 3 T0 Usage
+szUnit : %
+Value : 34,5
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 3 T1 Usage
+szUnit : %
+Value : 0,7
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 4 T0 Usage
+szUnit : %
+Value : 12,7
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 4 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 5 T0 Usage
+szUnit : %
+Value : 5,2
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 5 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 6 T0 Usage
+szUnit : %
+Value : 3,7
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 6 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 7 T0 Usage
+szUnit : %
+Value : 2,2
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 7 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 8 T0 Usage
+szUnit : %
+Value : 0,7
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 8 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 9 T0 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 9 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 10 T0 Usage
+szUnit : %
+Value : 1,5
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 10 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 11 T0 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 11 T1 Usage
+szUnit : %
+Value : 2,2
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 12 T0 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 12 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 13 T0 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 13 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 14 T0 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 14 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 15 T0 Usage
+szUnit : %
+Value : 0,7
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 15 T1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Max CPU/Thread Usage
+szUnit : %
+Value : 47,3
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Total CPU Usage
+szUnit : %
+Value : 5,0281249999999975
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 0 Ratio
+szUnit : x
+Value : 42,5
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 1 Ratio
+szUnit : x
+Value : 36
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 2 Ratio
+szUnit : x
+Value : 35,4
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 3 Ratio
+szUnit : x
+Value : 42,5
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 4 Ratio
+szUnit : x
+Value : 43,75
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 5 Ratio
+szUnit : x
+Value : 42,5
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 6 Ratio
+szUnit : x
+Value : 36
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 7 Ratio
+szUnit : x
+Value : 34
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 8 Ratio
+szUnit : x
+Value : 36
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 9 Ratio
+szUnit : x
+Value : 34,2
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 10 Ratio
+szUnit : x
+Value : 36
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 11 Ratio
+szUnit : x
+Value : 34,2
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 12 Ratio
+szUnit : x
+Value : 34
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 13 Ratio
+szUnit : x
+Value : 36
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 14 Ratio
+szUnit : x
+Value : 36
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 1 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X
+dwReadingID : 1
+szLabelUser : Core 15 Ratio
+szUnit : x
+Value : 36
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 0 C0 Residency
+szUnit : %
+Value : 63,13376998901367
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 1 C0 Residency
+szUnit : %
+Value : 69,44027709960938
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 2 C0 Residency
+szUnit : %
+Value : 59,90877914428711
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 3 C0 Residency
+szUnit : %
+Value : 66,90373992919922
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 4 C0 Residency
+szUnit : %
+Value : 44,25895690917969
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 5 C0 Residency
+szUnit : %
+Value : 38,37363815307617
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 6 C0 Residency
+szUnit : %
+Value : 33,55813980102539
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 7 C0 Residency
+szUnit : %
+Value : 30,758506774902344
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 8 C0 Residency
+szUnit : %
+Value : 24,306859970092773
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 9 C0 Residency
+szUnit : %
+Value : 19,195636749267578
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 10 C0 Residency
+szUnit : %
+Value : 23,748979568481445
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 11 C0 Residency
+szUnit : %
+Value : 22,2828426361084
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 12 C0 Residency
+szUnit : %
+Value : 5,645528793334961
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 13 C0 Residency
+szUnit : %
+Value : 4,630885601043701
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 14 C0 Residency
+szUnit : %
+Value : 4,230922698974609
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 15 C0 Residency
+szUnit : %
+Value : 7,478035926818848
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 0 C1 Residency
+szUnit : %
+Value : 36,86619567871094
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 1 C1 Residency
+szUnit : %
+Value : 30,55975341796875
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 2 C1 Residency
+szUnit : %
+Value : 40,09119415283203
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 3 C1 Residency
+szUnit : %
+Value : 33,09632110595703
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 4 C1 Residency
+szUnit : %
+Value : 55,7410888671875
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 5 C1 Residency
+szUnit : %
+Value : 61,626319885253906
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 6 C1 Residency
+szUnit : %
+Value : 66,44184875488281
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 7 C1 Residency
+szUnit : %
+Value : 69,24140167236328
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 8 C1 Residency
+szUnit : %
+Value : 75,69286346435547
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 9 C1 Residency
+szUnit : %
+Value : 80,80418395996094
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 10 C1 Residency
+szUnit : %
+Value : 76,25088500976562
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 11 C1 Residency
+szUnit : %
+Value : 77,71708679199219
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 12 C1 Residency
+szUnit : %
+Value : 28,368467330932617
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 13 C1 Residency
+szUnit : %
+Value : 27,37946891784668
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 14 C1 Residency
+szUnit : %
+Value : 27,956378936767578
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 15 C1 Residency
+szUnit : %
+Value : 39,73567581176758
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 0 C6 Residency
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 1 C6 Residency
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 2 C6 Residency
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 3 C6 Residency
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 4 C6 Residency
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 5 C6 Residency
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 6 C6 Residency
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 7 C6 Residency
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 8 C6 Residency
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 9 C6 Residency
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 10 C6 Residency
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 11 C6 Residency
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 12 C6 Residency
+szUnit : %
+Value : 65,98612213134766
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 13 C6 Residency
+szUnit : %
+Value : 67,98970794677734
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 14 C6 Residency
+szUnit : %
+Value : 67,81295776367188
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 2 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: C-State Residency
+dwReadingID : 2
+szLabelUser : Core 15 C6 Residency
+szUnit : %
+Value : 52,78851318359375
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 3 ; Sensor Name: Memory Timings
+dwReadingID : 3
+szLabelUser : Memory Clock
+szUnit : MHz
+Value : 1597,12
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 3 ; Sensor Name: Memory Timings
+dwReadingID : 3
+szLabelUser : Memory Clock Ratio
+szUnit : x
+Value : 16
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 3 ; Sensor Name: Memory Timings
+dwReadingID : 3
+szLabelUser : Tcas
+szUnit : T
+Value : 16
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 3 ; Sensor Name: Memory Timings
+dwReadingID : 3
+szLabelUser : Trcd
+szUnit : T
+Value : 20
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 3 ; Sensor Name: Memory Timings
+dwReadingID : 3
+szLabelUser : Trp
+szUnit : T
+Value : 20
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 3 ; Sensor Name: Memory Timings
+dwReadingID : 3
+szLabelUser : Tras
+szUnit : T
+Value : 38
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 3 ; Sensor Name: Memory Timings
+dwReadingID : 3
+szLabelUser : Trc
+szUnit : T
+Value : 75
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 3 ; Sensor Name: Memory Timings
+dwReadingID : 3
+szLabelUser : Trfc
+szUnit : T
+Value : 880
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 3 ; Sensor Name: Memory Timings
+dwReadingID : 3
+szLabelUser : Command Rate
+szUnit : T
+Value : 1
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU (Tctl/Tdie)
+szUnit : °C
+Value : 56,75
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU Die (average)
+szUnit : °C
+Value : 54,47164535522461
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU CCD1 (Tdie)
+szUnit : °C
+Value : 47
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU CCD2 (Tdie)
+szUnit : °C
+Value : 44
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU Core Voltage (SVI2 TFN)
+szUnit : V
+Value : 1,3937499999999998
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : SoC Voltage (SVI2 TFN)
+szUnit : V
+Value : 1,0812499999999998
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU Core VID (Effective)
+szUnit : V
+Value : 1,4125
+tReading : SENSOR_TYPE_CURRENT
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU Core Current (SVI2 TFN)
+szUnit : A
+Value : 16,941176470588236
+tReading : SENSOR_TYPE_CURRENT
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : SoC Current (SVI2 TFN)
+szUnit : A
+Value : 28,941176470588236
+tReading : SENSOR_TYPE_CURRENT
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU TDC
+szUnit : A
+Value : 29,149852752685547
+tReading : SENSOR_TYPE_CURRENT
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU EDC
+szUnit : A
+Value : 61,02478909608908
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU Package Power (SMU)
+szUnit : W
+Value : 71,20381720370145
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 0 Power (SMU)
+szUnit : W
+Value : 3,8082475741365807
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 1 Power (SMU)
+szUnit : W
+Value : 5,415117852815427
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 2 Power (SMU)
+szUnit : W
+Value : 3,2261875876462223
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 3 Power (SMU)
+szUnit : W
+Value : 4,909113799540104
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 4 Power (SMU)
+szUnit : W
+Value : 2,5422748100557717
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 5 Power (SMU)
+szUnit : W
+Value : 2,14623346358598
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 6 Power (SMU)
+szUnit : W
+Value : 1,8514420443834017
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 7 Power (SMU)
+szUnit : W
+Value : 1,7021891146942931
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 8 Power (SMU)
+szUnit : W
+Value : 1,1907662136841304
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 9 Power (SMU)
+szUnit : W
+Value : 1,0148458558737816
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 10 Power (SMU)
+szUnit : W
+Value : 1,1566023295110304
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 11 Power (SMU)
+szUnit : W
+Value : 1,0901722492030697
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 12 Power (SMU)
+szUnit : W
+Value : 0,3385202411951804
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 13 Power (SMU)
+szUnit : W
+Value : 0,2979326911826125
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 14 Power (SMU)
+szUnit : W
+Value : 0,3083067472943799
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core 15 Power (SMU)
+szUnit : W
+Value : 0,47779136502125774
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU Core Power (SVI2 TFN)
+szUnit : W
+Value : 23,61176470588235
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU SoC Power (SVI2 TFN)
+szUnit : W
+Value : 31,292647058823526
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Core+SoC Power (SVI2 TFN)
+szUnit : W
+Value : 54,90441176470588
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU PPT
+szUnit : W
+Value : 69,68828582763672
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Infinity Fabric Clock (FCLK)
+szUnit : MHz
+Value : 1600
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Memory Controller Clock (UCLK)
+szUnit : MHz
+Value : 1600
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU PPT Limit
+szUnit : %
+Value : 27,87531433105469
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU TDC Limit
+szUnit : %
+Value : 14,289143506218405
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : CPU EDC Limit
+szUnit : %
+Value : 29,91411230200445
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Thermal Throttling (HTC)
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Thermal Throttling (PROCHOT CPU)
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 4 ; Sensor Name: CPU [#0]: AMD Ryzen 9 3950X: Enhanced
+dwReadingID : 4
+szLabelUser : Thermal Throttling (PROCHOT EXT)
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : Motherboard
+szUnit : °C
+Value : 40
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : Temp2
+szUnit : °C
+Value : 26
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : Temp3
+szUnit : °C
+Value : 57
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : Temp5
+szUnit : °C
+Value : 26
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : CPU (Weight)
+szUnit : °C
+Value : 40
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : CPU Package
+szUnit : °C
+Value : 56
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : CPU
+szUnit : °C
+Value : 46
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : Temp9
+szUnit : °C
+Value : 40
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : TSI0
+szUnit : °C
+Value : 56
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : Vcore
+szUnit : V
+Value : 1,344
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : +5V
+szUnit : V
+Value : 5,02
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : AVSB
+szUnit : V
+Value : 3,408
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : 3VCC
+szUnit : V
+Value : 3,2960000000000003
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : +12V
+szUnit : V
+Value : 12,075840000000001
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : VIN8
+szUnit : V
+Value : 0,736
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : VIN4
+szUnit : V
+Value : 1,008
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : 3VSB
+szUnit : V
+Value : 3,408
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : VBAT
+szUnit : V
+Value : 3,2960000000000003
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : VTT
+szUnit : V
+Value : 1,824
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : VIN5
+szUnit : V
+Value : 0,496
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : VIN6
+szUnit : V
+Value : 1,088
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : VIN2
+szUnit : V
+Value : 1,032
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : VIN3
+szUnit : V
+Value : 0,992
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : VIN7
+szUnit : V
+Value : 1
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : VIN9
+szUnit : V
+Value : 0,736
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : VHIF
+szUnit : V
+Value : 3,2960000000000003
+tReading : SENSOR_TYPE_FAN
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : Chassis Back
+szUnit : RPM
+Value : 671
+tReading : SENSOR_TYPE_FAN
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : CPU
+szUnit : RPM
+Value : 712
+tReading : SENSOR_TYPE_FAN
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : Chassis Front
+szUnit : RPM
+Value : 591
+tReading : SENSOR_TYPE_FAN
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : PCH
+szUnit : RPM
+Value : 2954
+tReading : SENSOR_TYPE_FAN
+dwSensorIndex : 5 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Nuvoton NCT6798D)
+dwReadingID : 5
+szLabelUser : CPU_OPT
+szUnit : RPM
+Value : 694
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 6 ; Sensor Name: ASUS TUF GAMING X570-PLUS (AMD X570)
+dwReadingID : 6
+szLabelUser : Chipset
+szUnit : °C
+Value : 68,5
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 7 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Richtek RT8894A/ASP1106)
+dwReadingID : 7
+szLabelUser : VDD Voltage
+szUnit : V
+Value : 1,11875
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 7 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Richtek RT8894A/ASP1106)
+dwReadingID : 7
+szLabelUser : NB Voltage
+szUnit : V
+Value : 1,0375
+tReading : SENSOR_TYPE_CURRENT
+dwSensorIndex : 7 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Richtek RT8894A/ASP1106)
+dwReadingID : 7
+szLabelUser : VDD Current
+szUnit : A
+Value : 14,823529411764707
+tReading : SENSOR_TYPE_CURRENT
+dwSensorIndex : 7 ; Sensor Name: ASUS TUF GAMING X570-PLUS (Richtek RT8894A/ASP1106)
+dwReadingID : 7
+szLabelUser : NB Current
+szUnit : A
+Value : 28,94117647058824
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 8 ; Sensor Name: S.M.A.R.T.: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 8
+szLabelUser : Drive Temperature
+szUnit : °C
+Value : 38
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 8 ; Sensor Name: S.M.A.R.T.: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 8
+szLabelUser : Drive Temperature 2
+szUnit : °C
+Value : 48
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 8 ; Sensor Name: S.M.A.R.T.: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 8
+szLabelUser : Drive Remaining Life
+szUnit : %
+Value : 100
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 8 ; Sensor Name: S.M.A.R.T.: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 8
+szLabelUser : Drive Failure
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 8 ; Sensor Name: S.M.A.R.T.: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 8
+szLabelUser : Drive Warning
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 8 ; Sensor Name: S.M.A.R.T.: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 8
+szLabelUser : Total Host Writes
+szUnit : GB
+Value : 5121
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 8 ; Sensor Name: S.M.A.R.T.: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 8
+szLabelUser : Total Host Reads
+szUnit : GB
+Value : 64189
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 9 ; Sensor Name: S.M.A.R.T.: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwReadingID : 9
+szLabelUser : Drive Temperature
+szUnit : °C
+Value : 38
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 9 ; Sensor Name: S.M.A.R.T.: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwReadingID : 9
+szLabelUser : Drive Failure
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 9 ; Sensor Name: S.M.A.R.T.: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwReadingID : 9
+szLabelUser : Drive Warning
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 9 ; Sensor Name: S.M.A.R.T.: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwReadingID : 9
+szLabelUser : Total Host Writes
+szUnit : GB
+Value : 30954
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 9 ; Sensor Name: S.M.A.R.T.: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwReadingID : 9
+szLabelUser : Total Host Reads
+szUnit : GB
+Value : 61757
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 10 ; Sensor Name: S.M.A.R.T.: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+dwReadingID : 10
+szLabelUser : Drive Temperature
+szUnit : °C
+Value : 41
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 10 ; Sensor Name: S.M.A.R.T.: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+dwReadingID : 10
+szLabelUser : Drive Failure
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 10 ; Sensor Name: S.M.A.R.T.: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+dwReadingID : 10
+szLabelUser : Drive Warning
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 11 ; Sensor Name: S.M.A.R.T.: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 11
+szLabelUser : Drive Airflow Temperature
+szUnit : °C
+Value : 36
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 11 ; Sensor Name: S.M.A.R.T.: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 11
+szLabelUser : Drive Remaining Life
+szUnit : %
+Value : 99
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 11 ; Sensor Name: S.M.A.R.T.: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 11
+szLabelUser : Drive Failure
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 11 ; Sensor Name: S.M.A.R.T.: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 11
+szLabelUser : Drive Warning
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 11 ; Sensor Name: S.M.A.R.T.: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 11
+szLabelUser : Total Host Writes
+szUnit : GB
+Value : 13351
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 11 ; Sensor Name: S.M.A.R.T.: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 11
+szLabelUser : Total Host Reads
+szUnit : GB
+Value : 9551
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 12 ; Sensor Name: S.M.A.R.T.: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwReadingID : 12
+szLabelUser : Drive Airflow Temperature
+szUnit : °C
+Value : 42
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 12 ; Sensor Name: S.M.A.R.T.: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwReadingID : 12
+szLabelUser : Drive Remaining Life
+szUnit : %
+Value : 96
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 12 ; Sensor Name: S.M.A.R.T.: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwReadingID : 12
+szLabelUser : Drive Failure
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 12 ; Sensor Name: S.M.A.R.T.: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwReadingID : 12
+szLabelUser : Drive Warning
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 12 ; Sensor Name: S.M.A.R.T.: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwReadingID : 12
+szLabelUser : Total Host Writes
+szUnit : GB
+Value : 15518
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 13 ; Sensor Name: S.M.A.R.T.: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwReadingID : 13
+szLabelUser : Drive Airflow Temperature
+szUnit : °C
+Value : 43
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 13 ; Sensor Name: S.M.A.R.T.: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwReadingID : 13
+szLabelUser : Drive Remaining Life
+szUnit : %
+Value : 96
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 13 ; Sensor Name: S.M.A.R.T.: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwReadingID : 13
+szLabelUser : Drive Failure
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 13 ; Sensor Name: S.M.A.R.T.: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwReadingID : 13
+szLabelUser : Drive Warning
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 13 ; Sensor Name: S.M.A.R.T.: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwReadingID : 13
+szLabelUser : Total Host Writes
+szUnit : GB
+Value : 22285
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 14 ; Sensor Name: Drive: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwReadingID : 14
+szLabelUser : Read Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 14 ; Sensor Name: Drive: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwReadingID : 14
+szLabelUser : Write Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 14 ; Sensor Name: Drive: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwReadingID : 14
+szLabelUser : Total Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 14 ; Sensor Name: Drive: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwReadingID : 14
+szLabelUser : Read Rate
+szUnit : MB/s
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 14 ; Sensor Name: Drive: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwReadingID : 14
+szLabelUser : Write Rate
+szUnit : MB/s
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 14 ; Sensor Name: Drive: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwReadingID : 14
+szLabelUser : Read Total
+szUnit : MB
+Value : 708
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 14 ; Sensor Name: Drive: WDC WD40EFRX-68N32N0 (WD-WCC7K1ZKZ1Y1)
+dwReadingID : 14
+szLabelUser : Write Total
+szUnit : MB
+Value : 43355
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 15 ; Sensor Name: Drive: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+dwReadingID : 15
+szLabelUser : Read Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 15 ; Sensor Name: Drive: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+dwReadingID : 15
+szLabelUser : Write Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 15 ; Sensor Name: Drive: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+dwReadingID : 15
+szLabelUser : Total Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 15 ; Sensor Name: Drive: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+dwReadingID : 15
+szLabelUser : Read Rate
+szUnit : MB/s
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 15 ; Sensor Name: Drive: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+dwReadingID : 15
+szLabelUser : Write Rate
+szUnit : MB/s
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 15 ; Sensor Name: Drive: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+dwReadingID : 15
+szLabelUser : Read Total
+szUnit : MB
+Value : 5
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 15 ; Sensor Name: Drive: WDC WD10EZEX-00BN5A0 (WD-WCC3FFATU7U2)
+dwReadingID : 15
+szLabelUser : Write Total
+szUnit : MB
+Value : 30
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 16 ; Sensor Name: Drive: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 16
+szLabelUser : Read Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 16 ; Sensor Name: Drive: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 16
+szLabelUser : Write Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 16 ; Sensor Name: Drive: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 16
+szLabelUser : Total Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 16 ; Sensor Name: Drive: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 16
+szLabelUser : Read Rate
+szUnit : MB/s
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 16 ; Sensor Name: Drive: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 16
+szLabelUser : Write Rate
+szUnit : MB/s
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 16 ; Sensor Name: Drive: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 16
+szLabelUser : Read Total
+szUnit : MB
+Value : 108042
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 16 ; Sensor Name: Drive: Samsung SSD 860 QVO 4TB (S4CXNF0M422261A)
+dwReadingID : 16
+szLabelUser : Write Total
+szUnit : MB
+Value : 69252
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 17 ; Sensor Name: Drive: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwReadingID : 17
+szLabelUser : Read Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 17 ; Sensor Name: Drive: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwReadingID : 17
+szLabelUser : Write Activity
+szUnit : %
+Value : 0,527
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 17 ; Sensor Name: Drive: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwReadingID : 17
+szLabelUser : Total Activity
+szUnit : %
+Value : 0,527
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 17 ; Sensor Name: Drive: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwReadingID : 17
+szLabelUser : Read Rate
+szUnit : MB/s
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 17 ; Sensor Name: Drive: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwReadingID : 17
+szLabelUser : Write Rate
+szUnit : MB/s
+Value : 0,18
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 17 ; Sensor Name: Drive: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwReadingID : 17
+szLabelUser : Read Total
+szUnit : MB
+Value : 8960
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 17 ; Sensor Name: Drive: Samsung SSD 850 EVO 250GB (S21PNSAG100906P)
+dwReadingID : 17
+szLabelUser : Write Total
+szUnit : MB
+Value : 93227
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 18 ; Sensor Name: Drive: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwReadingID : 18
+szLabelUser : Read Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 18 ; Sensor Name: Drive: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwReadingID : 18
+szLabelUser : Write Activity
+szUnit : %
+Value : 0,12
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 18 ; Sensor Name: Drive: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwReadingID : 18
+szLabelUser : Total Activity
+szUnit : %
+Value : 0,12
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 18 ; Sensor Name: Drive: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwReadingID : 18
+szLabelUser : Read Rate
+szUnit : MB/s
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 18 ; Sensor Name: Drive: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwReadingID : 18
+szLabelUser : Write Rate
+szUnit : MB/s
+Value : 0,121
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 18 ; Sensor Name: Drive: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwReadingID : 18
+szLabelUser : Read Total
+szUnit : MB
+Value : 89015
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 18 ; Sensor Name: Drive: Samsung SSD 850 EVO 500GB (S2RBNX0J108875B)
+dwReadingID : 18
+szLabelUser : Write Total
+szUnit : MB
+Value : 44549
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 19 ; Sensor Name: Drive: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 19
+szLabelUser : Read Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 19 ; Sensor Name: Drive: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 19
+szLabelUser : Write Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 19 ; Sensor Name: Drive: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 19
+szLabelUser : Total Activity
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 19 ; Sensor Name: Drive: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 19
+szLabelUser : Read Rate
+szUnit : MB/s
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 19 ; Sensor Name: Drive: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 19
+szLabelUser : Write Rate
+szUnit : MB/s
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 19 ; Sensor Name: Drive: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 19
+szLabelUser : Read Total
+szUnit : MB
+Value : 169
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 19 ; Sensor Name: Drive: Samsung SSD 960 EVO 500GB (S3EUNX0JA20472A)
+dwReadingID : 19
+szLabelUser : Write Total
+szUnit : MB
+Value : 44
+tReading : SENSOR_TYPE_TEMP
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Temperature
+szUnit : °C
+Value : 55
+tReading : SENSOR_TYPE_VOLT
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Core Voltage
+szUnit : V
+Value : 0,65
+tReading : SENSOR_TYPE_FAN
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Fan
+szUnit : RPM
+Value : 891
+tReading : SENSOR_TYPE_POWER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Power
+szUnit : W
+Value : 37,623
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Clock
+szUnit : MHz
+Value : 936,5
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Memory Clock
+szUnit : MHz
+Value : 2003,4
+tReading : SENSOR_TYPE_CLOCK
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Video Clock
+szUnit : MHz
+Value : 847,5
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Core Load
+szUnit : %
+Value : 2
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Memory Controller Load
+szUnit : %
+Value : 1
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Video Engine Load
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Bus Load
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Memory Usage
+szUnit : %
+Value : 7,142829895019531
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU D3D Usage
+szUnit : %
+Value : 3,8842011549566893
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Video Decode 0 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Video Encode 0 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Video Encode 1 Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Computing (Compute_0) Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Computing (Compute_1) Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_USAGE
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU VR Usage
+szUnit : %
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Fan
+szUnit : %
+Value : 25
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : Performance Limit - Power
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : Performance Limit - Thermal
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : Performance Limit - Reliability Voltage
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : Performance Limit - Max Operating Voltage
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : Performance Limit - Utilization
+szUnit : Yes/No
+Value : 16
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : Performance Limit - SLI GPUBoost Sync
+szUnit : Yes/No
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : Total GPU Power (normalized) [% of TDP]
+szUnit : %
+Value : 36,067
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : Total GPU Power [% of TDP]
+szUnit : %
+Value : 24,916
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU Memory Allocated
+szUnit : MB
+Value : 585,140625
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU D3D Memory Dedicated
+szUnit : MB
+Value : 487,1484375
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : GPU D3D Memory Dynamic
+szUnit : MB
+Value : 35,4453125
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 20 ; Sensor Name: GPU [#0]: NVIDIA GeForce GTX 1070: 
+dwReadingID : 20
+szLabelUser : PCIe Link Speed
+szUnit : GT/s
+Value : 8
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 21 ; Sensor Name: Network: RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+dwReadingID : 21
+szLabelUser : Total DL
+szUnit : MB
+Value : 27988,460015296936
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 21 ; Sensor Name: Network: RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+dwReadingID : 21
+szLabelUser : Total UP
+szUnit : MB
+Value : 17748,285941123962
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 21 ; Sensor Name: Network: RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+dwReadingID : 21
+szLabelUser : Current DL rate
+szUnit : KB/s
+Value : 79,32103058830606
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 21 ; Sensor Name: Network: RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+dwReadingID : 21
+szLabelUser : Current UP rate
+szUnit : KB/s
+Value : 53,776730931183835
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 22 ; Sensor Name: Network: Microsoft KM-TEST Loopback Adapter
+dwReadingID : 22
+szLabelUser : Total DL
+szUnit : MB
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 22 ; Sensor Name: Network: Microsoft KM-TEST Loopback Adapter
+dwReadingID : 22
+szLabelUser : Total UP
+szUnit : MB
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 22 ; Sensor Name: Network: Microsoft KM-TEST Loopback Adapter
+dwReadingID : 22
+szLabelUser : Current DL rate
+szUnit : KB/s
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 22 ; Sensor Name: Network: Microsoft KM-TEST Loopback Adapter
+dwReadingID : 22
+szLabelUser : Current UP rate
+szUnit : KB/s
+Value : 0
+tReading : SENSOR_TYPE_OTHER
+dwSensorIndex : 23 ; Sensor Name: Windows Hardware Errors (WHEA)
+dwReadingID : 23
+szLabelUser : Total Errors
+szUnit : 
+Value : 0
