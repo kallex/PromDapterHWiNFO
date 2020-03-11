@@ -16,6 +16,18 @@ namespace SensorMonHTTP
         public const int HWiNFO_SENSORS_STRING_LEN2 = 128;
         public const int HWiNFO_UNIT_STRING_LEN = 16;
 
+        public HWiNFOProvider()
+        {
+            Close = CloseAsync;
+            GetDataItems = GetDataItemsBulk;
+            Open = OpenAsync;
+        }
+
+        public Open Open { get; }
+        public GetDataItems GetDataItems { get; }
+        public Close Close { get; }
+
+
         public enum SENSOR_READING_TYPE
         {
             SENSOR_TYPE_NONE = 0,
@@ -172,23 +184,95 @@ namespace SensorMonHTTP
             return accessorInfo;
         }
 
-        public void Close(bool closeBuffers = false)
+        public void CloseProvider(bool closeBuffers = false)
         {
-            if (mmf != null)
-            {
-                mmf.Dispose();
-            }
-
+            mmf?.Dispose();
             if(closeBuffers)
                 CurrentAccessorInfo?.FreeBuffers();
         }
 
-        public async Task Open(params object[] parameters)
+        public async Task OpenAsync(params object[] parameters)
         {
             mmf = MemoryMappedFile.OpenExisting(HWiNFO_SENSORS_MAP_FILE_NAME2, MemoryMappedFileRights.Read);
         }
 
-        public async Task<DataItem[]> GetDataItems(params object[] parameters)
+        public async Task<DataItem[]> GetDataItemsBulk(params object[] parameters)
+        {
+            var accessorInfo = GetValidAccessorInfo();
+            var accessor = accessorInfo.Accessor;
+            var memInfo = accessorInfo.MemInfo;
+            var numSensors = memInfo.dwNumSensorElements;
+            var numReadingElements = memInfo.dwNumReadingElements;
+            var offsetSensorSection = memInfo.dwOffsetOfSensorSection;
+            var sizeSensorElement = memInfo.dwSizeOfSensorElement;
+            var offsetReadingSection = memInfo.dwOffsetOfReadingSection;
+            var sizeReadingSection = memInfo.dwSizeOfReadingElement;
+
+            List<string> sensorNames = new List<string>();
+
+            using (var sensor_element_accessor = mmf.CreateViewStream(
+                offsetSensorSection + 0, numSensors * sizeSensorElement,
+                MemoryMappedFileAccess.Read))
+            {
+                sensor_element_accessor.Seek(0, SeekOrigin.Begin);
+                for (UInt32 dwSensor = 0; dwSensor < numSensors; dwSensor++)
+                {
+
+                    var byteBuffer = accessorInfo.SensorData;
+
+                    sensor_element_accessor.Read(byteBuffer, 0, (int)sizeSensorElement);
+                    var handle = accessorInfo.SensorHandle;
+                    _HWiNFO_SENSORS_SENSOR_ELEMENT SensorElement =
+                        (_HWiNFO_SENSORS_SENSOR_ELEMENT)Marshal.PtrToStructure(handle.AddrOfPinnedObject(),
+                            typeof(_HWiNFO_SENSORS_SENSOR_ELEMENT));
+
+                    sensorNames.Add(SensorElement.szSensorNameUser);
+                }
+            }
+
+            var sources = sensorNames.Select(item => new Source() { SourceName = item }).ToArray();
+            var dataItems = new List<DataItem>();
+            var timestamp = DateTime.UtcNow;
+
+            using (var sensor_element_accessor = mmf.CreateViewStream(
+                offsetReadingSection, sizeReadingSection * numReadingElements, MemoryMappedFileAccess.Read))
+            {
+                sensor_element_accessor.Seek(0, SeekOrigin.Begin);
+
+                for (UInt32 dwReading = 0; dwReading < numReadingElements; dwReading++)
+                {
+                    var byteBuffer = accessorInfo.ReadingData;
+
+                    sensor_element_accessor.Read(byteBuffer, 0, (int)sizeReadingSection);
+                    var handle = accessorInfo.ReadingHandle;
+                    _HWiNFO_SENSORS_READING_ELEMENT readingElement =
+                        (_HWiNFO_SENSORS_READING_ELEMENT)Marshal.PtrToStructure(handle.AddrOfPinnedObject(),
+                            typeof(_HWiNFO_SENSORS_READING_ELEMENT));
+
+                    var currSource = sources[readingElement.dwSensorIndex];
+
+                    var dataItem = new DataItem()
+                    {
+                        Source = currSource,
+                        Category = readingElement.tReading.ToString(),
+                        Name = readingElement.szLabelUser,
+                        Unit = readingElement.szUnit,
+                        Value = new DataValue()
+                        {
+                            Type = typeof(double),
+                            Object = readingElement.Value
+                        },
+                        Timestamp = timestamp
+                    };
+                    dataItems.Add(dataItem);
+                }
+            }
+
+            return dataItems.ToArray();
+        }
+
+
+        public async Task<DataItem[]> GetDataItemsSingleMem(params object[] parameters)
         {
             var accessorInfo = GetValidAccessorInfo();
             var accessor = accessorInfo.Accessor;
@@ -262,7 +346,7 @@ namespace SensorMonHTTP
             return dataItems.ToArray();
         }
 
-        public async Task Close(params object[] parameters)
+        public async Task CloseAsync(params object[] parameters)
         {
             var firstParam = parameters.FirstOrDefault();
             bool closeBuffers = false;
@@ -270,8 +354,9 @@ namespace SensorMonHTTP
             {
                 closeBuffers = (bool) firstParam;
             }
-            Close(closeBuffers);
+            CloseProvider(closeBuffers);
         }
+
     };
 
 }
