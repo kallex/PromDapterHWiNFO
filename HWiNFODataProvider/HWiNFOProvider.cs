@@ -19,7 +19,8 @@ namespace SensorMonHTTP
         public HWiNFOProvider()
         {
             Close = CloseAsync;
-            GetDataItems = GetDataItemsBulk;
+            //GetDataItems = GetDataItemsBulk;
+            GetDataItems = GetDataItemsSimple;
             Open = OpenAsync;
         }
 
@@ -40,6 +41,20 @@ namespace SensorMonHTTP
             SENSOR_TYPE_USAGE,
             SENSOR_TYPE_OTHER
         };
+
+        public static Dictionary<SENSOR_READING_TYPE, string> SensorTypeNameDictionary;
+
+        static HWiNFOProvider()
+        {
+            var enumType = typeof(SENSOR_READING_TYPE);
+            var enumValues = Enum.GetValues(enumType);
+            SensorTypeNameDictionary = new Dictionary<SENSOR_READING_TYPE, string>();
+            foreach (var enumValue in enumValues)
+            {
+                var enumName = Enum.GetName(enumType, enumValue);
+                SensorTypeNameDictionary.Add((SENSOR_READING_TYPE) enumValue, enumName);
+            }
+        }
 
   
         [StructLayout(LayoutKind.Sequential, Pack = 1, CharSet = CharSet.Ansi)]
@@ -117,6 +132,11 @@ namespace SensorMonHTTP
 
             public void FreeBuffers()
             {
+                if (Accessor != null)
+                {
+                    Accessor.Dispose();
+                    Accessor = null;
+                }
                 if (SensorData != null)
                 {
                     SensorHandle.Free();
@@ -196,6 +216,95 @@ namespace SensorMonHTTP
             mmf = MemoryMappedFile.OpenExisting(HWiNFO_SENSORS_MAP_FILE_NAME2, MemoryMappedFileRights.Read);
         }
 
+        public async Task<DataItem[]> GetDataItemsSimple(params object[] parameters)
+        {
+
+            using (var accessor = mmf.CreateViewAccessor(0, Marshal.SizeOf(typeof(_HWiNFO_SENSORS_SHARED_MEM2)),
+                MemoryMappedFileAccess.Read))
+            {
+                _HWiNFO_SENSORS_SHARED_MEM2 memInfo;
+                accessor.Read(0, out memInfo);
+
+                var numSensors = memInfo.dwNumSensorElements;
+                var numReadingElements = memInfo.dwNumReadingElements;
+                var offsetSensorSection = memInfo.dwOffsetOfSensorSection;
+                var sizeSensorElement = memInfo.dwSizeOfSensorElement;
+                var offsetReadingSection = memInfo.dwOffsetOfReadingSection;
+                var sizeReadingElement = memInfo.dwSizeOfReadingElement;
+
+                List<string> sensorNames = new List<string>();
+
+                
+                using (var sensor_element_accessor = mmf.CreateViewStream(
+                    offsetSensorSection + 0, numSensors * sizeSensorElement,
+                    MemoryMappedFileAccess.Read))
+                {
+                    var buffer = new byte[sizeSensorElement];
+                    var handle = GCHandle.Alloc(buffer, GCHandleType.Pinned);
+                    try
+                    {
+                        for (UInt32 dwSensor = 0; dwSensor < numSensors; dwSensor++)
+                        {
+                            sensor_element_accessor.Read(buffer, 0, (int) sizeSensorElement);
+                            _HWiNFO_SENSORS_SENSOR_ELEMENT SensorElement =
+                                (_HWiNFO_SENSORS_SENSOR_ELEMENT) Marshal.PtrToStructure(handle.AddrOfPinnedObject(),
+                                    typeof(_HWiNFO_SENSORS_SENSOR_ELEMENT));
+                            sensorNames.Add(SensorElement.szSensorNameUser);
+                        }
+                    }
+                    finally
+                    {
+                        handle.Free();
+                    }
+                }
+
+                var sources = sensorNames.Select(item => new Source() {SourceName = item}).ToArray();
+                var dataItems = new List<DataItem>();
+                var timestamp = DateTime.UtcNow;
+
+                using (var sensor_element_accessor = mmf.CreateViewStream(
+                    offsetReadingSection, sizeReadingElement * numReadingElements, MemoryMappedFileAccess.Read))
+                {
+                    var buffer = new byte[sizeReadingElement];
+                    var handle = GCHandle.Alloc(buffer, GCHandleType.Pinned);
+                    try
+                    {
+                        for (UInt32 dwReading = 0; dwReading < numReadingElements; dwReading++)
+                        {
+                            sensor_element_accessor.Read(buffer, 0, (int) sizeReadingElement);
+                            _HWiNFO_SENSORS_READING_ELEMENT readingElement =
+                                (_HWiNFO_SENSORS_READING_ELEMENT) Marshal.PtrToStructure(handle.AddrOfPinnedObject(),
+                                    typeof(_HWiNFO_SENSORS_READING_ELEMENT));
+
+                            var currSource = sources[readingElement.dwSensorIndex];
+
+                            var dataItem = new DataItem()
+                            {
+                                Source = currSource,
+                                //Category = readingElement.tReading.ToString(),
+                                Category = SensorTypeNameDictionary[readingElement.tReading],
+                                Name = readingElement.szLabelUser,
+                                Unit = readingElement.szUnit,
+                                Value = new DataValue()
+                                {
+                                    Type = typeof(double),
+                                    Object = readingElement.Value
+                                },
+                                Timestamp = timestamp
+                            };
+                            dataItems.Add(dataItem);
+                        }
+                    }
+                    finally
+                    {
+                        handle.Free();
+                    }
+                }
+                return dataItems.ToArray();
+            }
+        }
+
+
         public async Task<DataItem[]> GetDataItemsBulk(params object[] parameters)
         {
             var accessorInfo = GetValidAccessorInfo();
@@ -254,7 +363,8 @@ namespace SensorMonHTTP
                     var dataItem = new DataItem()
                     {
                         Source = currSource,
-                        Category = readingElement.tReading.ToString(),
+                        //Category = readingElement.tReading.ToString(),
+                        Category = SensorTypeNameDictionary[readingElement.tReading],
                         Name = readingElement.szLabelUser,
                         Unit = readingElement.szUnit,
                         Value = new DataValue()

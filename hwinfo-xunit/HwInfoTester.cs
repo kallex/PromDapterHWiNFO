@@ -42,13 +42,27 @@ namespace hwinfo_xunit
         public async Task TestHWInfoProvider()
         {
             IPromDapterService service = new HWiNFOProvider();
-            await service.Open();
             DataItem[] data;
+            await service.Open();
             for (int i = 0; i < 10000; i++)
             {
                 data = await service.GetDataItems();
             }
             await service.Close(true);
+        }
+
+
+        [Fact]
+        public async Task TestHWInfoProviderOpenCloseAll()
+        {
+            IPromDapterService service = new HWiNFOProvider();
+            DataItem[] data;
+            for (int i = 0; i < 10000; i++)
+            {
+                await service.Open();
+                data = await service.GetDataItems();
+                await service.Close(true);
+            }
         }
 
         [Fact]
@@ -64,7 +78,7 @@ namespace hwinfo_xunit
             for (int i = 0; i < 10000; i++)
             {
                 wrapper.Open(false);
-                wrapper.Close(true);
+                wrapper.Close(false);
                 //wrapper.Close(false);
             }
             wrapper.Close(true);
