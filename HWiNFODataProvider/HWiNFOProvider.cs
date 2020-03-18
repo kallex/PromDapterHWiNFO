@@ -304,7 +304,7 @@ namespace SensorMonHTTP
             }
         }
 
-
+        [Obsolete]
         public async Task<DataItem[]> GetDataItemsBulk(params object[] parameters)
         {
             var accessorInfo = GetValidAccessorInfo();
@@ -382,6 +382,7 @@ namespace SensorMonHTTP
         }
 
 
+        [Obsolete]
         public async Task<DataItem[]> GetDataItemsSingleMem(params object[] parameters)
         {
             var accessorInfo = GetValidAccessorInfo();
