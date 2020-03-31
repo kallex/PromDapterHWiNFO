@@ -58,7 +58,7 @@ namespace SensorMonHTTP
 
   
         [StructLayout(LayoutKind.Sequential, Pack = 1, CharSet = CharSet.Ansi)]
-        public struct _HWiNFO_SENSORS_READING_ELEMENT
+        private struct _HWiNFO_SENSORS_READING_ELEMENT
         {
             public SENSOR_READING_TYPE tReading;
             public UInt32 dwSensorIndex;
@@ -76,7 +76,7 @@ namespace SensorMonHTTP
         };
 
         [StructLayout(LayoutKind.Sequential, Pack = 1, CharSet = CharSet.Ansi)]
-        public struct _HWiNFO_SENSORS_SENSOR_ELEMENT
+        private struct _HWiNFO_SENSORS_SENSOR_ELEMENT
         {
             public UInt32 dwSensorID;
             public UInt32 dwSensorInst;
@@ -87,7 +87,7 @@ namespace SensorMonHTTP
         };
 
         [StructLayout(LayoutKind.Sequential, Pack = 1, CharSet = CharSet.Ansi)]
-        public struct _HWiNFO_SENSORS_SHARED_MEM2
+        private struct _HWiNFO_SENSORS_SHARED_MEM2
         {
             public UInt32 dwSignature;
             public UInt32 dwVersion;
@@ -121,10 +121,10 @@ namespace SensorMonHTTP
 
 	    MemoryMappedFile mmf;
 
-        public class AccessorInfo
+        private class AccessorInfo 
         {
             public MemoryMappedViewAccessor Accessor;
-            public _HWiNFO_SENSORS_SHARED_MEM2 MemInfo = new _HWiNFO_SENSORS_SHARED_MEM2();
+            internal _HWiNFO_SENSORS_SHARED_MEM2 MemInfo = new _HWiNFO_SENSORS_SHARED_MEM2();
             public byte[] SensorData = null;
             public GCHandle SensorHandle;
             public byte[] ReadingData = null;
@@ -152,9 +152,9 @@ namespace SensorMonHTTP
             }
         }
 
-        public AccessorInfo CurrentAccessorInfo = new AccessorInfo();
+        private AccessorInfo CurrentAccessorInfo = new AccessorInfo();
 
-        public AccessorInfo GetValidAccessorInfo()
+        private AccessorInfo GetValidAccessorInfo()
         {
             var accessorInfo = CurrentAccessorInfo;
             var accessor = accessorInfo.Accessor;
