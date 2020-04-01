@@ -52,14 +52,15 @@ namespace hwinfo_xunit
         public async Task TestHWInfoProvider()
         {
             IPromDapterService service = new HWiNFOProvider();
-            DataItem[] data;
+            DataItem[] data = null;
             await service.Open();
             for (int i = 0; i < 10000; i++)
             {
                 data = await service.GetDataItems();
             }
-
             await service.Close(true);
+            Assert.Equal("Virtual Memory Commited", data.First().Name);
+            Assert.Equal("MB", data.First().Unit);
         }
 
         private void assertMemoryState()
