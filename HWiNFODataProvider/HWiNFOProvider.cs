@@ -182,9 +182,7 @@ namespace SensorMonHTTP
                         for (UInt32 dwSensor = 0; dwSensor < numSensors; dwSensor++)
                         {
                             sensor_element_accessor.Read(buffer, 0, (int) sizeSensorElement);
-                            _HWiNFO_SENSORS_SENSOR_ELEMENT SensorElement =
-                                (_HWiNFO_SENSORS_SENSOR_ELEMENT) Marshal.PtrToStructure(handle.AddrOfPinnedObject(),
-                                    typeof(_HWiNFO_SENSORS_SENSOR_ELEMENT));
+                            var SensorElement = Marshal.PtrToStructure<_HWiNFO_SENSORS_SENSOR_ELEMENT>(handle.AddrOfPinnedObject());
                             sensorNames.Add(SensorElement.szSensorNameUser);
                         }
                     }
@@ -208,9 +206,8 @@ namespace SensorMonHTTP
                         for (UInt32 dwReading = 0; dwReading < numReadingElements; dwReading++)
                         {
                             sensor_element_accessor.Read(buffer, 0, (int) sizeReadingElement);
-                            _HWiNFO_SENSORS_READING_ELEMENT readingElement =
-                                (_HWiNFO_SENSORS_READING_ELEMENT) Marshal.PtrToStructure(handle.AddrOfPinnedObject(),
-                                    typeof(_HWiNFO_SENSORS_READING_ELEMENT));
+                            var readingElement =
+                                Marshal.PtrToStructure<_HWiNFO_SENSORS_READING_ELEMENT>(handle.AddrOfPinnedObject());
 
                             var currSource = sources[readingElement.dwSensorIndex];
                             /*

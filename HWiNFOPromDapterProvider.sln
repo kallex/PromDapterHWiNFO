@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hwinfo-test", "hwinfo-test.csproj", "{9FE2B32B-459E-491F-A418-DFF19B158A1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hwinfo-test", "hwinfo-test\hwinfo-test.csproj", "{9FE2B32B-459E-491F-A418-DFF19B158A1B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hwinfo-xunit", "..\hwinfo-xunit\hwinfo-xunit.csproj", "{ED087D33-AC02-46D5-8232-4B418532949C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hwinfo-xunit", "hwinfo-xunit\hwinfo-xunit.csproj", "{ED087D33-AC02-46D5-8232-4B418532949C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromDapterDeclarations", "..\PromDapterDeclarations\PromDapterDeclarations.csproj", "{3845DD6C-F1A9-47F9-AEB5-CA120E2321E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromDapterDeclarations", "PromDapterDeclarations\PromDapterDeclarations.csproj", "{3845DD6C-F1A9-47F9-AEB5-CA120E2321E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWiNFODataProvider", "..\HWiNFODataProvider\HWiNFODataProvider.csproj", "{F12380DF-AA7D-4EEB-B871-4F231A3DC6B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWiNFODataProvider", "HWiNFODataProvider\HWiNFODataProvider.csproj", "{F12380DF-AA7D-4EEB-B871-4F231A3DC6B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
